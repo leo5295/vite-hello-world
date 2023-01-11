@@ -1,6 +1,7 @@
 <script>
 import titleApp from './components/titleApp.vue';
-import AppHero from './components/appHero.vue';
+import AppHero from './components/AppHero.vue';
+
 export default{
   components: {titleApp, AppHero}
 }
